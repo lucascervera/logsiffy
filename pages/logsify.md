@@ -1,0 +1,5 @@
+- Crea una carpeta En tu disco duro Con el nombre logsify
+	- `C:\Users\<USER>\Documents\logsify`
+	- Por ejemplo.:
+	- `C:\Users\lucas\Documents\logsify`
+	-
